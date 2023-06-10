@@ -1,0 +1,3 @@
+- Every time react renders the component it calls or invokes the function component it is rendering
+- When iterating over data with .map, we need to give each React element a unique key attribute so that React knows which DOM operations to trigger between renders.
+- React always works within compiles of JavaScript
